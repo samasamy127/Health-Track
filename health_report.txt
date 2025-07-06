@@ -1,0 +1,40 @@
+Health Report:
+
+Averages:
+  Height: 170.00
+  Weight: 71.00
+  Systolic BP: 130.00
+  Diastolic BP: 86.00
+  Heart Rate: 75.40
+
+Maximum Values:
+  Height: 180.0
+  Weight: 90.0
+  Systolic BP: 150.0
+  Diastolic BP: 100.0
+  Heart Rate: 85.0
+
+Minimum Values:
+  Height: 160.0
+  Weight: 50.0
+  Systolic BP: 110.0
+  Diastolic BP: 70.0
+  Heart Rate: 65.0
+
+Warnings:
+  Systolic BP: [150.0]
+  Diastolic BP: [95.0, 100.0]
+
+BMI Values and Categories:
+  Day 1: BMI = 24.221453287197235, Category = Normal weight
+  Day 2: BMI = 22.03856749311295, Category = Normal weight
+  Day 3: BMI = 27.777777777777775, Category = Overweight
+  Day 4: BMI = 27.755102040816325, Category = Overweight
+  Day 5: BMI = 19.531249999999996, Category = Normal weight
+
+Blood Pressure Categories:
+  Day 1: High Blood Pressure (Hypertension) Stage 1
+  Day 2: High Blood Pressure (Hypertension) Stage 1
+  Day 3: High Blood Pressure (Hypertension) Stage 2
+  Day 4: High Blood Pressure (Hypertension) Stage 2
+  Day 5: Normal
